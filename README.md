@@ -1,4 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mateus Sousa</h1>
+<h3 align="center">I'm a Full Stack Web Developer in the making, studying at Trybe School, from Brazil.</h3>
+
+- :green_book: I’m currently learning **Docker, MySQL, MongoDB, NodeJS, Express, JWT, TypeScript, POO, SOLID and Deploy.**
+
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Redux, Context API**
+
+- 📫 How to reach me **mateussousa20@outlook.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mateus-angelino-de-sousa/](https://www.linkedin.com/in/mateus-angelino-de-sousa/)
+
+- :closed_book: English Level: Beginner - studying every day to improve my skills
+
+- ⚡ Fun fact **I think I'm a great team player and very collaborative**
 
 <div align="center">
   <a href="https://github.com/mateussousaa">
