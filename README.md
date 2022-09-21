@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I'm a great team player and very collaborative**
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/mateussousaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussousaa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussousaa&layout=compact&langs_count=7&theme=react"/>
