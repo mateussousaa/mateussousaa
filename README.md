@@ -6,7 +6,7 @@
 
 - :green_book: I’m currently learning **MongoDB, NodeJS, Express, JWT, TypeScript, POO, SOLID and Deploy.**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Redux, Context API, Docker, MySQL**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Redux, Context API, Docker, MySQL.**
 
 - 📫 How to reach me **mateussousa20@outlook.com**
 
