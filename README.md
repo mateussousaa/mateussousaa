@@ -61,7 +61,7 @@
 
 <br />
 
-- :green_book: I’m currently learning **Python, Design Patterns, Algoritmos e Estrutura de Dados.**
+- :green_book: I’m currently learning **Python, Design Patterns, Algorithms and Data Structures.**
 
 - 📫 How to reach me **mateussousa20@outlook.com**
 
