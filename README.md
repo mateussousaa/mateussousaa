@@ -69,7 +69,7 @@
 
 - :closed_book: English Level: Beginner - studying every day to improve my skills
 
-- ⚡ Fun fact **I consider myself a good cook 👨**
+- ⚡ Fun fact **I consider myself a good cook 👨🏻‍🍳**
 
 <br />
 <br />
