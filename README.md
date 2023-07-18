@@ -7,7 +7,7 @@
 
 <br />
 
-- :green_book: Atualmente aprendendo **Angular, Python, Design Patterns, Algoritmos e Estrutura de Dados.**
+- :green_book: Atualmente aprendendo **Java, Spring Boot.**
 
 - 📫 Como me encontrar **mateussousa20@outlook.com**
 
@@ -16,13 +16,6 @@
 - ⚡ Fato Engraçado **Eu me considero um bom cozinheiro 👨🏻‍🍳**
 
 <br />
-<br />
-
-<div align="center">
-  <a href="https://github.com/mateussousaa">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=mateussousaa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussousaa&layout=compact&langs_count=7&theme=transparent"/>
-</div>
 <br />
 <div><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -61,7 +54,7 @@
 
 <br />
 
-- :green_book: I’m currently learning **Angular, Python, Design Patterns, Algorithms and Data Structures.**
+- :green_book: I’m currently learning **Java, Spring Boot.**
 
 - 📫 How to reach me **mateussousa20@outlook.com**
 
@@ -72,13 +65,6 @@
 - ⚡ Fun fact **I consider myself a good cook 👨🏻‍🍳**
 
 <br />
-<br />
-
-<div align="center">
-  <a href="https://github.com/mateussousaa">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=mateussousaa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussousaa&layout=compact&langs_count=7&theme=transparent"/>
-</div>
 <br />
 <div><br>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
